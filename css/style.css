@@ -5,8 +5,8 @@ body {
 }
 
 .layout_padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .layout_padding2 {
@@ -261,7 +261,7 @@ a:focus {
 }
 
 .quote_btn-container a:hover {
-  color: #ff8a1d;
+  color: #350bb1;
 }
 
 /*end header section*/
@@ -835,6 +835,12 @@ a:focus {
 .footer_section a {
   color: inherit;
 }
-
+.service-title {
+  min-height: 60px; /* Adjust the height as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
